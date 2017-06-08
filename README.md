@@ -1,5 +1,5 @@
 # Recent Projects by Ian Handshy
-## Here are a few pages I've worked on
+## Here are a few pages I've built for Ergodyne.com
 
 Page URLs:
 * [Product Launch Landing Page - Advanced Lead Nurturing](https://www.ergodyne.com/skoll)
